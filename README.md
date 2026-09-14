@@ -1,6 +1,6 @@
-# Hi, I'm Max Van Zandt 👋
+# Hi, I'm Max Van Zandt
 
-📊 Statistician focused on causal inference, experimentation, and applied statistical consulting
+📊 Statistician focused on causal inference, experimentation, and applied statistical consulting.
 
 M.A. in Statistics & Data Science at UC Berkeley (expected May 2027), B.S. in Statistics from 
 the University of Virginia (GPA 3.91). I'm targeting Statistician / Data Scientist roles centered 
@@ -14,7 +14,7 @@ Built an ML model predicting global flight routes (HDBSCAN clustering), cutting 
 shaped supply chain planning.
 
 **Biokind Analytics:** Lead Data Analyst
-Statistical consulting for healthcare nonprofits — survival analysis, logistic regression, and 
+Statistical consulting for healthcare nonprofits - survival analysis, logistic regression, and 
 nonparametric methods on outcomes like acute malnutrition relapse in children; led a 10-year donor 
 history time series analysis for an endowment campaign.
 
@@ -25,7 +25,7 @@ the lab's broader research portfolio.
 ## Selected Projects
 
 🏈 **[SportsSimulations](https://github.com/maxvanzandt/SportsSimulations)**
-Statistical simulation framework for NFL 4th & Goal decisions — logistic/multinomial regression, 
+Statistical simulation framework for NFL 4th & Goal decisions - logistic/multinomial regression, 
 mixture models, and win probability modeling to determine when teams should go for it vs. kick.
 
 🥁 **[Drumming Styles: A Distributional Feature Analysis](https://github.com/maxvanzandt/Drumming-Styles-A-Distributional-Feature-Analysis)**
@@ -51,7 +51,7 @@ Explored the mathematics of kernel canonical correlation analysis (KCCA) for tra
 nonlinearities in market and economic group metrics.
 
 🏆 **[SASL Big Data Bowl 2025](https://github.com/maxvanzandt/SASL-Big-Data-Bowl-2025)**
-UVA SASL's NFL Big Data Bowl submission — developed *Beyond the Snap: Quantifying Pre-Snap Motion*, 
+UVA SASL's NFL Big Data Bowl submission; developed *Beyond the Snap: Quantifying Pre-Snap Motion*, 
 leveraging pre-snap player tracking data to uncover strategic advantages, combining machine 
 learning and data visualization to derive actionable football insights.
 
