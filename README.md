@@ -4,7 +4,7 @@
 
 M.A. in Statistics & Data Science at UC Berkeley (expected May 2027), B.S. in Statistics from 
 the University of Virginia (GPA 3.91). I'm targeting Statistician / Data Scientist roles centered 
-on causal inference, experimentation, and A/B testing — in product data science or biostatistics.
+on causal inference, experimentation, and A/B testing - especially in tech, biostats/pharma, or research-adjacent settings.
 
 ## Experience
 
