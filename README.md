@@ -8,17 +8,17 @@ on causal inference, experimentation, and A/B testing — in product data scienc
 
 ## Experience
 
-**Iridium Satellite Communications** — Data Science Intern
+**Iridium Satellite Communications:** Data Science Intern
 Built an ML model predicting global flight routes (HDBSCAN clustering), cutting flight data pulls 
 75% (~$25k/yr saved); ran survival analysis uncovering 200+ day subscriber provisioning lags that 
 shaped supply chain planning.
 
-**Biokind Analytics** — Lead Data Analyst
+**Biokind Analytics:** Lead Data Analyst
 Statistical consulting for healthcare nonprofits — survival analysis, logistic regression, and 
 nonparametric methods on outcomes like acute malnutrition relapse in children; led a 10-year donor 
 history time series analysis for an endowment campaign.
 
-**UVA Sports Analytics and Statistics Laboratory (SASL)** — Team Lead, NFL Big Data Bowl
+**UVA Sports Analytics and Statistics Laboratory (SASL):** Team Lead, NFL Big Data Bowl
 Led graduate researchers on the team's Big Data Bowl submission; developed metrics adopted into 
 the lab's broader research portfolio.
 
